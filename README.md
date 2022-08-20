@@ -1,2 +1,2 @@
 # curso-python
-Curso de Python feito no app Mimo em 2021
+Curso prático de Python feito em app mobile em 2021
