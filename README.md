@@ -1,2 +1,2 @@
 # curso-python
-Curso prático de Python feito em app mobile em 2021
+Curso prático de Python feito em app mobile, concluído em 09/2021
